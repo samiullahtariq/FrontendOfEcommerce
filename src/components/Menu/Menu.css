@@ -1,0 +1,20 @@
+
+
+
+.fontsize {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.language {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.logo {
+    text-align: center;
+}
